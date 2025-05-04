@@ -39,5 +39,6 @@ min_num = min(numbers)
 print("满足条件的四位数：", numbers)
 print("最大的数：", max_num)
 print("最小的数：", min_num)
+print(f"{13:0>5}")
 
 
